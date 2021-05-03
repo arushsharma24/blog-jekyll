@@ -9,7 +9,6 @@ I am Arush, a sophomore at Indian Institute of Technology, Roorkee. I intend to 
 My interests vary from linux, computing in general, electronics hardware to anime and parantha supremacy.
 
 ### Contact me 
-### (Or don't)
 
 I can be reached via email at arush24astar@gmail.com
 
